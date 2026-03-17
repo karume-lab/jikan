@@ -1,1 +1,3 @@
-export default function TechPicker() { return <div>TechPicker</div>; }
+export default function TechPicker() {
+  return <div>TechPicker</div>;
+}

@@ -1,1 +1,3 @@
-export default function FormulaLine() { return <div>FormulaLine</div>; }
+export default function FormulaLine() {
+  return <div>FormulaLine</div>;
+}

@@ -1,1 +1,3 @@
-export default function AppShell({ children }: { children: React.ReactNode }) { return <div>{children}</div>; }
+export default function AppShell({ children }: { children: React.ReactNode }) {
+  return <div>{children}</div>;
+}

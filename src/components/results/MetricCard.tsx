@@ -1,1 +1,3 @@
-export default function MetricCard() { return <div>MetricCard</div>; }
+export default function MetricCard() {
+  return <div>MetricCard</div>;
+}

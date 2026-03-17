@@ -1,1 +1,3 @@
-export default function SimpleView() { return <div>SimpleView</div>; }
+export default function SimpleView() {
+  return <div>SimpleView</div>;
+}

@@ -1,1 +1,3 @@
-export default function RiskItem() { return <div>RiskItem</div>; }
+export default function RiskItem() {
+  return <div>RiskItem</div>;
+}

@@ -1,1 +1,3 @@
-export default function WizardShell() { return <div>WizardShell</div>; }
+export default function WizardShell() {
+  return <div>WizardShell</div>;
+}

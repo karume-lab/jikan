@@ -1,1 +1,3 @@
-export default function NavBar() { return <nav>NavBar</nav>; }
+export default function NavBar() {
+  return <nav>NavBar</nav>;
+}

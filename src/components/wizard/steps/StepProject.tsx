@@ -1,1 +1,3 @@
-export default function StepProject() { return <div>StepProject</div>; }
+export default function StepProject() {
+  return <div>StepProject</div>;
+}

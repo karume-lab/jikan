@@ -1,1 +1,3 @@
-export default function FeatureChip() { return <div>FeatureChip</div>; }
+export default function FeatureChip() {
+  return <div>FeatureChip</div>;
+}

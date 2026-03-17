@@ -1,1 +1,3 @@
-export default function StackPresetCard() { return <div>StackPresetCard</div>; }
+export default function StackPresetCard() {
+  return <div>StackPresetCard</div>;
+}

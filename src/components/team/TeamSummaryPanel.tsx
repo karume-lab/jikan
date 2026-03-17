@@ -1,1 +1,3 @@
-export default function TeamSummaryPanel() { return <div>TeamSummaryPanel</div>; }
+export default function TeamSummaryPanel() {
+  return <div>TeamSummaryPanel</div>;
+}

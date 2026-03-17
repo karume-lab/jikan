@@ -1,1 +1,1 @@
-export const router = {}; // Placeholder
+export const router = {};

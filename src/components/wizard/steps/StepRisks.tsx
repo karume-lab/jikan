@@ -1,1 +1,3 @@
-export default function StepRisks() { return <div>StepRisks</div>; }
+export default function StepRisks() {
+  return <div>StepRisks</div>;
+}

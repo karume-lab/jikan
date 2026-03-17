@@ -1,1 +1,3 @@
-export default function ScalingToggle() { return <div>ScalingToggle</div>; }
+export default function ScalingToggle() {
+  return <div>ScalingToggle</div>;
+}

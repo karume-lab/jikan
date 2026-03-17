@@ -1,1 +1,3 @@
-export default function StepStack() { return <div>StepStack</div>; }
+export default function StepStack() {
+  return <div>StepStack</div>;
+}

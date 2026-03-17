@@ -1,1 +1,3 @@
-export default function CustomRiskModal() { return <div>CustomRiskModal</div>; }
+export default function CustomRiskModal() {
+  return <div>CustomRiskModal</div>;
+}

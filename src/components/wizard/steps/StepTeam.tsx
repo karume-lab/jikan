@@ -1,1 +1,3 @@
-export default function StepTeam() { return <div>StepTeam</div>; }
+export default function StepTeam() {
+  return <div>StepTeam</div>;
+}

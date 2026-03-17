@@ -1,1 +1,3 @@
-export default function RiskCategoryCard() { return <div>RiskCategoryCard</div>; }
+export default function RiskCategoryCard() {
+  return <div>RiskCategoryCard</div>;
+}

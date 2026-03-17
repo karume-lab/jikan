@@ -1,1 +1,3 @@
-export default function JsonDropzone() { return <div>JsonDropzone</div>; }
+export default function JsonDropzone() {
+  return <div>JsonDropzone</div>;
+}

@@ -1,1 +1,3 @@
-export default function Presets() { return <div>Presets</div>; }
+export default function Presets() {
+  return <div>Presets</div>;
+}

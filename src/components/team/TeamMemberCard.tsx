@@ -1,1 +1,3 @@
-export default function TeamMemberCard() { return <div>TeamMemberCard</div>; }
+export default function TeamMemberCard() {
+  return <div>TeamMemberCard</div>;
+}

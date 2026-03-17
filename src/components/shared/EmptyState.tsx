@@ -1,1 +1,3 @@
-export default function EmptyState() { return <div>EmptyState</div>; }
+export default function EmptyState() {
+  return <div>EmptyState</div>;
+}

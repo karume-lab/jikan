@@ -1,1 +1,3 @@
-export default function EstimateCard() { return <div>EstimateCard</div>; }
+export default function EstimateCard() {
+  return <div>EstimateCard</div>;
+}
